@@ -1,0 +1,3 @@
+# Analyzing Gun Violence Patterns in the U.S. for 2024
+
+This project focuses on exploring patterns in gun violence in the United States throughout 2024, using data on mass shootings and school-related incidents from the Gun Violence Archive. The study aims to identify trends in timing, location, and casualty rates to inform potential strategies for violence prevention. Data analysis and visualization techniques are applied to gain insights that could help shape public safety policies.
